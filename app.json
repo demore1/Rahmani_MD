@@ -1,9 +1,9 @@
 {
-  "name":"YESSER-MD",
-  "description":"Best whatsapp bot created by king yesser",
+  "name":"Rahmani_MD",
+  "description":"Best whatsapp bot created by Rahmani_Md",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/71bknp.jpg",
-  "repository":"https://github.com/Yassin994/YESSER-MD",
+  "logo":"https://files.catbox.moe/aktbgo.jpg",
+  "repository":"https://github.com/demore1/Rahmani_MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -16,7 +16,7 @@
 	  "ANTICALL":
     {
       "description":"Enter yes for your bot to reject calls",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
          "AUTO_BIO":
@@ -46,13 +46,13 @@
 	  "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 	  "AUTO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply message when you are offline",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "AUTO_READ_STATUS":
@@ -77,21 +77,21 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"YESSER-MD",
+    "value":"Rahmani_MD",
     "required":false
 
     },
        "BOT_MENU_LINKS" : 
    {
     "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://files.catbox.moe/71bknp.jpg",
+    "value":"https://files.catbox.moe/aktbgo.jpg",
     "required":false
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -117,20 +117,20 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "yessertech"
+    "value": "Rahmani_Md"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255621995482"
+    "value": "255693629079"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
