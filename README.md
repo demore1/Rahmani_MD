@@ -270,4 +270,4 @@
 
 
 
-     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝚃𝙷𝙰𝙽𝙺𝚂+𝙵𝙾𝚁+𝚈𝙾𝚄𝚁+𝚂𝚄𝙿𝙿𝙾𝚁𝚃+𝚁𝙰𝙷𝙼𝙰𝙽𝙸+𝙼𝙳+𝙰𝙻𝚆𝙰𝚈𝚂)](https://git.io/typing-svg)
+     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝚃𝙷𝙰𝙽𝙺𝚂+𝙵𝙾𝚁+𝚈𝙾𝚄𝚁+𝚂𝚄𝙿𝙿𝙾𝚁𝚃+𝚁𝙰𝙷𝙼𝙰𝙽𝙸+𝙼𝙳)](https://git.io/typing-svg)
