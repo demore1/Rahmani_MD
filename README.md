@@ -229,20 +229,20 @@
 
 
 
-<p align="center">                                                 ❤ 𝑹𝑨𝑯𝒁𝑨𝒀𝑵 𝑴𝑫 ❤
+<p align="center">                                                 ❤ 𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳 ❤
   
 
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VatokI45EjxufALmY32X">
-    <img alt=Support height="390" src="https://files.catbox.moe/by0do4.jpg"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/aktbgo.jpg"> 
     </p>
  
  
  
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝑀𝐴𝐷𝐸+𝐵𝑌+𝑅𝐴𝐻𝑍𝐴𝑌𝑁+𝑀𝐷+2025+𝑇𝐻𝐴𝑁𝐾𝑆🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝙼𝙰𝙳𝙴+𝙱𝚈+𝚁𝙰𝙷𝙼𝙰𝙽𝙸+𝙼𝙳+2025+𝚃𝙷𝙰𝙽𝙺𝚂)](https://git.io/typing-svg)
 
 
 
@@ -251,12 +251,12 @@
 
 #### SETUP 
 
-- <a href="https://github.com/rahzyn/RAHZAYN-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/demore1/Rahmani_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-- <a href="https://rahzayn-11.onrender.com"><img title="SESSION SITE" src="https://img.shields.io/badge/SESSION SITE-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://rahzayn-11.onrender.com"><img title="SESSION SITE" src="https://img.shields.io/badge/SESSION SITE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 #### DEPLOY TO HEROKU 
 1. `If You Don't Have An Account On Heroku`
@@ -266,8 +266,8 @@
 
 2. `If You Have a Heroku Account`
 
- - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/rahzyn/RAHZAYN-MD/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/demore1/Rahmani_MD/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
-     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝑇𝐻𝐴𝑁𝐾𝑆+𝐹𝑂𝑅+𝑌𝑂𝑈𝑅+𝑆𝑈𝑃𝑃𝑂𝑅𝑇+𝑅𝐴𝐻𝑍𝐴𝑌𝑁🥰+𝑀𝐷+𝐴𝐿𝑊𝐴𝑌𝑆)](https://git.io/typing-svg)
+     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝚃𝙷𝙰𝙽𝙺𝚂+𝙵𝙾𝚁+𝚈𝙾𝚄𝚁+𝚂𝚄𝙿𝙿𝙾𝚁𝚃+𝚁𝙰𝙷𝙼𝙰𝙽𝙸+𝙼𝙳+𝙰𝙻𝚆𝙰𝚈𝚂)](https://git.io/typing-svg)
